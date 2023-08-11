@@ -1,0 +1,10 @@
+build
+coverage
+node_modules
+package-lock.json
+.idea
+target
+npm
+test-report
+junit.xml
+*.snap
